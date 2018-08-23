@@ -62,6 +62,10 @@ Consumer Financial Protection Bureau:
   name: Credit Reporting Complaints
   url: https://help.consumerfinance.gov/app/creditreporting/ask
 
+Consumer Product Safety Commission:
+  name: Report an Unsafe Product
+  url: https://www.saferproducts.gov/CPSRMSPublic/Incidents/ReportIncident.aspx
+
 Equal Employment Opportunity Commission:
   name: Discrimination Complaints
   url: http://www.eeoc.gov/employees/charge.cfm
